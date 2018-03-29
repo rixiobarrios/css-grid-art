@@ -5,7 +5,7 @@ For this exercise, you will be creating an *abstract work of art* using CSS Grid
 ### Steps to clone down and open
 1. Open up Terminal
 2. Change into your `exercises` directory
-3. `git clone https://git.generalassemb.ly/ga-wdi-exercises/css_grid_art.git`
+3. `git clone git@git.generalassemb.ly:dc-wdi-fundamentals/css-grid-art.git`
 4. `cd css_grid_art` to change into the cloned down directory
 5. `code .` to open the directory you are currently located in VS Code
 6. `open index.html` to open your index file in your browser.
